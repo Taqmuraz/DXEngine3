@@ -1,0 +1,16 @@
+C:\Users\lulook\AppData\Local\Temporary Projects\TQ_DirectX9_Engine_3_0\bin\Release\TQ_DirectX9_Engine_3_0.exe
+C:\Users\lulook\AppData\Local\Temporary Projects\TQ_DirectX9_Engine_3_0\bin\Release\TQ_DirectX9_Engine_3_0.pdb
+C:\Users\lulook\AppData\Local\Temporary Projects\TQ_DirectX9_Engine_3_0\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lulook\AppData\Local\Temporary Projects\TQ_DirectX9_Engine_3_0\obj\Release\TQ_DirectX9_Engine_3_0.Properties.Resources.resources
+C:\Users\lulook\AppData\Local\Temporary Projects\TQ_DirectX9_Engine_3_0\obj\Release\TQ_DirectX9_Engine_3_0.csproj.GenerateResource.Cache
+C:\Users\lulook\AppData\Local\Temporary Projects\TQ_DirectX9_Engine_3_0\obj\Release\TQ_DirectX9_Engine_3_0.exe
+C:\Users\lulook\AppData\Local\Temporary Projects\TQ_DirectX9_Engine_3_0\obj\Release\TQ_DirectX9_Engine_3_0.pdb
+C:\Users\lulook\AppData\Local\Temporary Projects\TQ_DirectX9_Engine_3_0\obj\Release\TQ_DirectX9_Engine_3_0.DirectXPart.resources
+C:\UnityProjects\TQ_EnginesAll\TQ_DirectX9_Engine_3_0\TQ_DirectX9_Engine_3_0\obj\Release\TQ_DirectX9_Engine_3_0.exe
+C:\UnityProjects\TQ_EnginesAll\TQ_DirectX9_Engine_3_0\TQ_DirectX9_Engine_3_0\obj\Release\TQ_DirectX9_Engine_3_0.pdb
+C:\UnityProjects\TQ_EnginesAll\TQ_DirectX9_Engine_3_0\TQ_DirectX9_Engine_3_0\bin\Release\TQ_DirectX9_Engine_3_0.exe
+C:\UnityProjects\TQ_EnginesAll\TQ_DirectX9_Engine_3_0\TQ_DirectX9_Engine_3_0\bin\Release\TQ_DirectX9_Engine_3_0.pdb
+C:\UnityProjects\TQ_EnginesAll\TQ_DirectX9_Engine_3_0\TQ_DirectX9_Engine_3_0\obj\Release\ResolveAssemblyReference.cache
+C:\UnityProjects\TQ_EnginesAll\TQ_DirectX9_Engine_3_0\TQ_DirectX9_Engine_3_0\obj\Release\TQ_DirectX9_Engine_3_0.DirectXPart.resources
+C:\UnityProjects\TQ_EnginesAll\TQ_DirectX9_Engine_3_0\TQ_DirectX9_Engine_3_0\obj\Release\TQ_DirectX9_Engine_3_0.Properties.Resources.resources
+C:\UnityProjects\TQ_EnginesAll\TQ_DirectX9_Engine_3_0\TQ_DirectX9_Engine_3_0\obj\Release\TQ_DirectX9_Engine_3_0.csproj.GenerateResource.Cache

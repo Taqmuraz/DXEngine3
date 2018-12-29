@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TQ_DirectX9_Engine_3_0", "TQ_DirectX9_Engine_3_0\TQ_DirectX9_Engine_3_0.csproj", "{374E26AD-77C8-4BE3-B2D4-F9867CABC523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{374E26AD-77C8-4BE3-B2D4-F9867CABC523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374E26AD-77C8-4BE3-B2D4-F9867CABC523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374E26AD-77C8-4BE3-B2D4-F9867CABC523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374E26AD-77C8-4BE3-B2D4-F9867CABC523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
